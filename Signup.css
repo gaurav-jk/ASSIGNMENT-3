@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    background-image: linear-gradient( 105.3deg,  rgba(30,39,107,1) 21.8%, rgba(77,118,221,1) 100.2% );;
+    margin-top: 1px;
+}
+div{
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: 25%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    width: 50%;
+    height: 50%;    
+}
+img{
+    border-radius: 50%;
+}
+input{
+        padding: 10px;
+}
+button {
+    background-color: #0affa170;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    width: 10%;
+}
